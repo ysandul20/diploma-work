@@ -1,7 +1,7 @@
-## ✈️ Aircraft Maintenance System – Frontend
+# ✈️ Aircraft Maintenance System – Frontend
 This is the frontend part of the Aircraft Maintenance Management System, developed using React. The application provides an interface for different user roles (admin, engineer, supervisor, technician, dispatcher) to interact with the system, manage tasks, view records, and control access based on roles.
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 - React – Core library for building the user interface
 - Tailwind CSS – Utility-first framework for responsive and modern styling
 - Redux Toolkit – State management and user session handling (tokens, role, ID, name)
@@ -11,7 +11,7 @@ This is the frontend part of the Aircraft Maintenance Management System, develop
 - JWT (access & refresh tokens) – Authentication and authorization
 - REST API – Communication with the backend
 
-# 🔐 Key Features
+## 🔐 Key Features
 - Role-based authentication and authorization using JWT
 - Centralized user session management via Redux Toolkit
 - Full implementation of CRUD operations following RESTful standards
